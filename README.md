@@ -9,3 +9,5 @@ https://chat.openai.com/share/1e69192d-d18c-49f4-b652-e327070803f0
 https://chat.openai.com/share/d6340395-8515-4dc1-8ca7-aa9d6fdf3c16
 ----------
 day2
+----------
+https://chat.openai.com/share/98d53063-1a6c-4c8e-8c8e-fdf094a054cb
