@@ -1,6 +1,0 @@
-
-{
-java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(üŸ´Â8©Çð…¿1
-G	java:S106%"+Replace this use of System.out by a logger.(²ß†ÿ8ªÇð…¿1
-M
-java:S1128"1Remove this unused import 'java.util.concurrent'.(íÐ¢68«Çð…¿1

@@ -1,3 +1,0 @@
-Random data and sentences added here so we can
-observe the output in the console when we are reading
-or writing to a file using different I/O Java libraries

@@ -1,15 +1,0 @@
-
-G
-java:S1602",Remove useless curly braces around statement(¥Ù¥ßùÿÿÿÿ
-y
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¼ôâÒûÿÿÿÿ
-C	java:S108")Either remove or fill this block of code.(¼ôâÒûÿÿÿÿ
-y
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(­‘äúÿÿÿÿ
-C	java:S108")Either remove or fill this block of code.(­‘äúÿÿÿÿ
-E	java:S106%"+Replace this use of System.out by a logger.(ğÏÕÙıÿÿÿÿ
-@	java:S106."+Replace this use of System.out by a logger.(şÆÃì
-t
-java:S2142/"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¢éŠ»
->	java:S108/")Either remove or fill this block of code.(¢éŠ»
-@	java:S1063"+Replace this use of System.out by a logger.(óú¨Ü

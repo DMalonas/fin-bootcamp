@@ -1,14 +1,0 @@
-
-y
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
-R
-java:S1854)"7Remove this useless assignment to local variable "f12".(›˜á±ùÿÿÿÿ
-‡
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(õ€ä‚øÿÿÿÿ
-@	java:S106#"+Replace this use of System.out by a logger.(ğ¥„
-G
-java:S1602*",Remove useless curly braces around statement(èˆÃ§ûÿÿÿÿ
-@	java:S106+"+Replace this use of System.out by a logger.(ùÃ¨î
-C
-java:S1481)"(Remove this unused "f12" local variable.(›˜á±ùÿÿÿÿ

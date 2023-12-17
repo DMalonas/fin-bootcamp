@@ -1,9 +1,0 @@
-
-g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ë‰›Š¿1
-R
-java:S1481"0Remove this unused "receivedInt" local variable.(Çßáœùÿÿÿÿ8—”¼‰¿1
-6
-java:S2178"Correct this "&" to "&&".(¬ËÙ¡8˜”¼‰¿1
-G	java:S106"+Replace this use of System.out by a logger.(†¿¸à8˜”¼‰¿1
-{
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ß‰›Š¿1

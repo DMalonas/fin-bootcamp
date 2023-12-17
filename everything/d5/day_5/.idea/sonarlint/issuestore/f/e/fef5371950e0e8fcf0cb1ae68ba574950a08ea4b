@@ -1,11 +1,0 @@
-
-R
-java:S1854"5Remove this useless assignment to local variable "i".(Ûüáò8õ†ç‰¿1
-R
-java:S1854
-"5Remove this useless assignment to local variable "i".(³Ç¾»8ïÇå‰¿1
-H
-java:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8ôÇå‰¿1
-{
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(Ò„•ô8÷Çå‰¿1
-G	java:S106"+Replace this use of System.out by a logger.(ÃŞÂ„8÷Çå‰¿1
