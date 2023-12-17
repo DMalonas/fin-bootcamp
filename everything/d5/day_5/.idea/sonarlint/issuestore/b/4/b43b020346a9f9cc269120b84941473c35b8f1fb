@@ -1,0 +1,20 @@
+
+t
+java:S2142
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¶ÑĞ
+>	java:S108
+")Either remove or fill this block of code.(¶ÑĞ
+B
+java:S1602",Remove useless curly braces around statement(ˆÏ´
+@	java:S106"+Replace this use of System.out by a logger.(ˆÏ´
+E	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+L	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‡û“¿1
+L	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¶¤“¿1
+L	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¶¤“¿1
+L	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¶¤“¿1
+G	java:S106"+Replace this use of System.out by a logger.(şÆÃì8¶¤“¿1
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¢éŠ»
+>	java:S108")Either remove or fill this block of code.(¢éŠ»
+G	java:S106"+Replace this use of System.out by a logger.(óú¨Ü8·¤“¿1

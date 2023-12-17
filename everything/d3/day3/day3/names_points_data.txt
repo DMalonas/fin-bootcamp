@@ -1,0 +1,11 @@
+Golfo,3
+George,1
+Giannis,2
+Katerina,1
+Konstantinos,1
+Panagiotis,1
+Anestis,3
+Matina,0
+Petros,2
+Anthi,1
+8

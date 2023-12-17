@@ -1,0 +1,10 @@
+
+G	java:S106-"+Replace this use of System.out by a logger.(ğĞƒ8µ’éš½1
+L	java:S1060"+Replace this use of System.out by a logger.(çÑé§ùÿÿÿÿ8¶’éš½1
+G	java:S1066"+Replace this use of System.out by a logger.(‹ıõÆ8¸’éš½1
+L	java:S1068"+Replace this use of System.out by a logger.(‰ïé™ıÿÿÿÿ8¸’éš½1
+`
+java:S1854D"DRemove this useless assignment to local variable "matchedSentences".(…À08šÓéš½1
+Q
+java:S1481D"5Remove this unused "matchedSentences" local variable.(…À08ŸÓéš½1
+X	java:S125E"<This block of commented-out lines of code should be removed.(ëËƒæ8 Óéš½1
